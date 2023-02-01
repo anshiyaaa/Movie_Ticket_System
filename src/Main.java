@@ -19,7 +19,7 @@ public class Main {
 
 
         ArrayList<User> users = new ArrayList<User>();
-        User u1 = new User("Sushant", 13,"idiotsanwich@gordon.com");
+        User u1 = new User("Anshu", 17,"anshuniroula@gmail.com");
         users.add(u1);
 
 
